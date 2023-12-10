@@ -12,7 +12,6 @@ This is a simple hand gesture recognition game implemented using OpenCV, MediaPi
 - [Random Choice Improvement](#random-choice-improvement)
 - [Difficulty Adjustment](#difficulty-adjustment)
 - [How to Contribute](#how-to-contribute)
-- [Conclusion](#conclusion)
 
 ## How to Play
 
@@ -47,6 +46,9 @@ pip install mediapipe
 ## Hand Detection Visualization
 
 As the game runs, you will see your hand landmarks visualized on the camera feed. Key hand points are marked with green circles, and hand connections are displayed in green lines.
+![image info](./pictures/image1.png)
+![image info](./pictures/image2.png)
+![image info](./pictures/image3.png)
 
 ## Game Flow
 

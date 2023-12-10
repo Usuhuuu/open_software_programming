@@ -29,6 +29,11 @@ To run the game, you need to install the following Python libraries. You can ins
 pip install opencv-python
 pip install mediapipe
 ```
+- OpenCV: Used for camera feed and image processing.
+- MediaPipe: Utilized for hand gesture recognition.
+- Random: Used for generating random computer gestures.
+- Time: Used for timing and delays.
+- Collections: Used for counting user gesture occurrences.
 
 ## How It Works
 
